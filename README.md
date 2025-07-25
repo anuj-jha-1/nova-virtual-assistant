@@ -60,17 +60,3 @@ Anuj Kumar Jha
 
 📄 License
 This project is licensed under the MIT License — free to use and modify.
-
----
-
-## 📌 What to Do Next:
-
-1. Copy this content into your `README.md` file (if it isn’t already there).
-2. Commit the changes in **GitHub Desktop**:
-   - Summary: `Updated README.md with project details`
-   - Then **Push origin**
-
----
-
-Need help with writing a LinkedIn post or adding badges/images in the README?  
-Just tell me — I can make it look even cooler! 😎
